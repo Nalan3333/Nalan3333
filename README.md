@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nalan3333 👋
 
-<!--
-**Nalan3333/Nalan3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Minecraft modder who also enjoys low-level development. My favorite language is C.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I create mods for **NeoForge** (mostly 1.21.1) and **Fabric** (1.20.1, 1.20.4).
+- I'm particularly interested in building tooling and frameworks for other developers.
+- I also explore low-level topics like compilers and game engines.
+
+## Skills & Tools
+
+- **Languages:** Java, C, JavaScript
+- **Tools:** Gradle, Git, CMake, GDB
+
+## Projects
+
+- **NoxaFrame** — my own UI framework for NeoForge 1.21.1.  
+  Available on [Modrinth](https://modrinth.com/mod/noxaframe).
+
+## Currently Learning
+
+- C
+
+## Find Me
+
+- Modrinth: [modrinth.com/user/Nalan3333](https://modrinth.com/user/Nalan3333)
