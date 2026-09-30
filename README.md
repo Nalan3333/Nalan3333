@@ -25,3 +25,4 @@ I'm a Minecraft modder who also enjoys low-level development. My favorite langua
 ## Find Me
 
 - Modrinth: [modrinth.com/user/Nalan3333](https://modrinth.com/user/Nalan3333)
+- My discord username: @nalan3333projects
